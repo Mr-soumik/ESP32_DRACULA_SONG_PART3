@@ -29,6 +29,5 @@ THIS IS A ANIMATION CODE OF DRACULA SONG (PART3)
 
 ### Circuit Diagram
 
-<p align="center">
-  <img src="circuit.webp" alt="ESP32 OLED Drawing Pad Wiring Diagram" width="700">
-</p>
+<img width="871" height="487" alt="image" src="https://github.com/user-attachments/assets/5ee749fa-6a82-4773-b991-9596a48797f1" />
+
