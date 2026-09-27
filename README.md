@@ -31,3 +31,25 @@ THIS IS A ANIMATION CODE OF DRACULA SONG (PART3)
 
 <img width="871" height="487" alt="image" src="https://github.com/user-attachments/assets/5ee749fa-6a82-4773-b991-9596a48797f1" />
 
+## 💻 Software Requirements
+
+Install the following libraries using the **Arduino IDE Library Manager**:
+
+- Adafruit GFX
+- Adafruit SSD1306
+
+## ⭐ Support
+
+If you found this project helpful, consider giving this repository a **⭐ Star**.
+
+Your support helps **TECHTADKA360** create more open-source Arduino, ESP32, IoT, and Robotics projects.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+
