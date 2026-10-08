@@ -6,7 +6,9 @@ THIS IS A ANIMATION CODE OF DRACULA SONG (PART3)
 - YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
 - Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
-  
+
+  <img width="361" height="552" alt="image" src="https://github.com/user-attachments/assets/8e78fdef-6990-4b56-ac00-64c47270876c" />
+
 ## 🛠️ Hardware Required
 
 | Component | Quantity |
